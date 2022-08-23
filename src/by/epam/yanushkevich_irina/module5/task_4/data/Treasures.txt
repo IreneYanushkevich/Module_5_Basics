@@ -1,0 +1,101 @@
+Coin - gold, denom. 1, 20kg - 100
+Coin - gold, denom. 5, 20kg - 120
+Coin - gold, denom. 10, 20kg - 200
+Coin - gold, denom. 20, 20kg - 400
+Coin - gold, denom. 50, 20kg - 850
+Coin - silver, denom. 1, 20kg - 80
+Coin - silver, denom. 5, 20kg - 100
+Coin - silver, denom. 10, 20kg - 160
+Coin - silver, denom. 20, 20kg - 300
+Coin - silver, denom. 50, 20kg - 700
+Coin - bronze, denom. 1, 20kg - 60
+Coin - bronze, denom. 5, 20kg - 80
+Coin - bronze, denom. 10, 20kg - 140
+Coin - bronze, denom. 20, 20kg - 200
+Coin - bronze, denom. 50, 20kg - 500
+Bullion - gold, weight 5g - 200
+Bullion - gold, weight 10g - 400
+Bullion - gold, weight 20g - 800
+Bullion - gold, weight 30g - 1200
+Bullion - gold, weight 40g - 1600
+Bullion - gold, weight 50g - 2000
+Bullion  - gold, weight 100g - 4000
+Bullion  - silver, weight 5g - 50
+Bullion  - silver, weight 10g - 100
+Bullion  - silver, weight 20g - 200
+Bullion  - silver, weight 30g - 300
+Bullion  - silver, weight 40g - 400
+Bullion  - silver, weight 50g - 500
+Bullion  - silver, weight 100g - 1000
+Gem - diamond, weigth 10 kg - 5000
+Gem - Beryls, weigth 10 kg - 3000
+Gem - Garnet, weigth 10 kg - 3010
+Gem - Emeralds, weigth 10 kg - 5500
+Gem  - Quartz, weigth 10 kg - 2500
+Gem - Corundum, weigth 10 kg - 2800
+Gem - Tourmalines, weigth 10 kg - 3300
+Gem - Chrysoberyls, weigth 10 kg - 2950
+Gem - Spinel, weigth 10 kg - 1890
+Gem - Moonstone, weigth 10 kg - 4500
+Gem - Topaz, weigth 10 kg - 3450
+Gem - Opal, weigth 10 kg - 2300
+Gem - Pearl, weigth 10 kg - 4440
+Gem - Alexandrite, weigth 10 kg - 3450
+Gem - Sapphire, weigth 10 kg - 4040
+Weapon - Knife, 10 cm - 20
+Weapon - Knife, 12 cm - 30
+Weapon - Knife, 15 cm - 40
+Weapon - Knife, 20 cm - 50
+Weapon - Knife, 22 cm - 60
+Weapon - Knife, 25 cm - 70
+Weapon - Knife, 30 cm - 80
+Weapon - Archery bow, 173 cm - 2500
+Weapon - Archery bow, 167 cm - 2300
+Weapon - Archery bow, 160 cm - 2100
+Weapon - Sword, Bastard, small - 1000
+Weapon - Sword, Bastard, middle - 1200
+Weapon - Sword, Bastard, large - 1500
+Weapon - Sword, Katzbalger, small - 1100
+Weapon - Sword, Katzbalger, middle - 1300
+Weapon - Sword, Katzbalger, large - 1600
+Weapon - Sword, Zweihender, small - 1200
+Weapon - Sword, Zweihender, middle - 1250
+Weapon - Sword, Zweihender, large - 1300
+Weapon - Sword, Flamberg, small - 1250
+Weapon - Sword, Flamberg, middle - 1350
+Weapon - Sword, Flamberg, large - 1500
+Weapon - Sword, Espadon, small - 1300
+Weapon - Sword, Espadon, middle - 1500
+Weapon - Sword, Espadon, large - 1700
+Weapon - Sword, Claymore, small - 1450
+Weapon - Sword, Claymore, middle - 1550
+Weapon - Sword, Claymore, large - 1600
+Weapon - Sword, Estok, small - 1650
+Weapon - Sword, Estok, middle - 1800
+Weapon - Sword, Estok, large - 2000
+Weapon - Sword, Schiavona, small - 1800
+Weapon - Sword, Schiavona, middle - 2000
+Weapon - Sword, Schiavona, large - 2300
+Weapon - Sword, Scottish, small - 1900
+Weapon - Sword, Scottish, middle - 2100
+Weapon - Sword, Scottish, large - 2250
+Weapon - Sword, Howegen, small - 1500
+Weapon - Sword, Howegen, middle - 1800
+Weapon - Sword, Howegen, large - 2200
+Weapon - Sword Executioner's, small - 2000
+Weapon - Sword Executioner's, middle - 2500
+Weapon - Sword Executioner's, large - 3000
+Weapon - Gun single barrel - 1500
+Weapon - Gun double-barreled - 1800
+Weapon - Gun bokflint - 2000
+Weapon - Gun buksflint - 2100
+Weapon - Gun bokbuksflint - 2200
+Weapon - Gun drilling - 2300
+Weapon - Gun boxdrilling - 2400
+Weapon - Gun firling - 2500
+Weapon - Gun express firling - 2600
+Weapon - Saber Talwar - 1500
+Weapon - Saber Shamshir - 1600
+Weapon - Saber Hussar - 1700
+Weapon - Saber Hussar with gold - 1800
+Weapon - Saber Kostyushkovka - 1800
